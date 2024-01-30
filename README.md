@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App
 
 GymPass style app.
@@ -30,3 +31,7 @@ GymPass style app.
 - [] Os dados da aplicação devem estar persistidos em um banco PostgreSQL
 - [] Todas as listas de dados devem estar paginadas com 20 itens por página
 - [] O usuário deve ser identificado por um JWT (JSON Web Token)
+=======
+# api-solid
+Uma api rest de um serviço de check-ins em academias utilizando NodeJS e SOLID
+>>>>>>> 1500f3c18b69f0b1019b9e60566578444abc8076
